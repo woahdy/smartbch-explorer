@@ -433,4 +433,10 @@
     "name": "Game",
     "logo": true
   }
-]
+  {
+   "address": "0x6D8a0626905F8a9d923A4a41cCe1817986781461",
+   "abiNames": ["sep20", "Woahbit"],
+   "type": "sep20",
+   "name": "WOAH",
+   "logo": true
+  },
